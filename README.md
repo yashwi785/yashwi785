@@ -47,7 +47,7 @@ AI-powered assistance concept aimed at improving agricultural decision-making.
 - Focus on usability and impact  
 - Designed with scalability in mind
 
-### 🔹 Mindor
+### 🔹 Mindore
 Web-based Mental Health
 
 - web-based mental peace

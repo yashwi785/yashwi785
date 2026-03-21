@@ -17,7 +17,6 @@ Currently focused on **software development, emerging tech, and product-driven t
 ---
 
 ## 🛠️ Skills & Technologies  
-*(LinkedIn-style, recruiter readable)*
 
 **Languages**
 - Python, C, C++, JavaScript  

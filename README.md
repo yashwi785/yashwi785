@@ -1,71 +1,50 @@
-# 👋 Hi, I'm Yashwi
+# Hi, I'm Yashwi Rathi 👋
+### CS Undergrad | AI & Software Developer | Problem Solver
 
-🚀 Entrepreneurial Mindset | Data Science & Algorithm | Curious Mind | Problem Solver  
-
-I build things that **solve real problems**, scale with logic, and respect engineering fundamentals.  
-Currently focused on **software development, emerging tech, and product-driven thinking**.
+I build clean, maintainable software, explore intelligent systems, and solve real-world problems.
 
 ---
 
-## 🧠 About Me  
+### 🛠️ Skills & Technologies
 
-- 🎓 B.Tech CSE (AI-DS) student with a strong engineering mindset  
-- 💡 Interested in startups, systems thinking, and long-term value creation  
-- 🧪 Love experimenting with ideas at the intersection of **code, Data, and business**  
-- 📈 Believe in learning fast, building often, and iterating relentlessly  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
 
-## 🛠️ Skills & Technologies  
-
-**Languages**
-- Python, C, C++, JavaScript  
-
-**Core CS**
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Engineering Mathematics  
-
-**Web & Software**
-- HTML, CSS, JavaScript  
-- Git & GitHub  
-- Basic backend & API concepts  
-
-**Other**
-- Problem Solving  
-- Logical Thinking  
-- Rapid Learning  
+**Core Computer Science & Tools**  
+![Data Structures](https://img.shields.io/badge/DSA-Core%20CS-4E5D6C?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Paradigm-2C3E50?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🧩 Projects  
+### 📌 Featured Projects
 
-### 🔹 KrishiMitr-AI  
-AI-powered assistance concept aimed at improving agricultural decision-making.
+* **[trackflow_py](https://github.com/yashwi785/trackflow_py)**  
+  *Command-line expense tracker built with Python leveraging core data structures.*  
+  `Python` `CLI` `Data Structures`
 
-- Data-driven insights for farming  
-- Focus on usability and impact  
-- Designed with scalability in mind
-
-### 🔹 Mindore
-Web-based Mental Health
-
-- web-based mental peace
-
-- *(Currently in process)*
-
-*(More projects coming — building in public)*
+  
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Activity & Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashwi785&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwi785&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+### 🤝 Let's Connect!
 
 - 💼 LinkedIn: www.linkedin.com/in/yashwi-rathi-9637a1382
 - 🐱‍🏍 Portfolio: https://sites.google.com/view/yashwi-rathi/home
@@ -73,5 +52,3 @@ Web-based Mental Health
 - 🌱 Always open to collaboration, ideas, and ambitious conversations  
 
 ---
-
-> “Build skills that compound. Code is leverage.”  

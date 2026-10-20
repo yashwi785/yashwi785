@@ -23,7 +23,7 @@ I build clean, maintainable software, explore intelligent systems, and solve rea
 
 ### 📌 Featured Projects
 
-* **[trackflow_py](https://github.com/yashwi785/trackflow_py)**  
+* **[trackflow-py](https://github.com/yashwi785/trackflow_py)**  
   *Command-line expense tracker built with Python leveraging core data structures.*  
   `Python` `CLI` `Data Structures`
 

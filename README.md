@@ -12,7 +12,6 @@ I build clean, maintainable software, explore intelligent systems, and solve rea
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 **Core Computer Science & Tools**  
 ![Data Structures](https://img.shields.io/badge/DSA-Core%20CS-4E5D6C?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-Paradigm-2C3E50?style=for-the-badge)
@@ -23,11 +22,21 @@ I build clean, maintainable software, explore intelligent systems, and solve rea
 
 ### 📌 Featured Projects
 
-* **[trackflow-py](https://github.com/yashwi785/trackflow_py)**  
-  *Command-line expense tracker built with Python leveraging core data structures.*  
-  `Python` `CLI` `Data Structures`
+- **[trackflow-py](https://github.com/yashwi785/trackflow-py)**  
+  *Command-line expense tracker with validated input, Decimal money handling and unit tests.*  
+  `Python` `CLI` `unittest` `GitHub Actions`
 
-  
+- **[personal-productivity-manager](https://github.com/yashwi785/personal-productivity-manager)**  
+  *Terminal task manager with date validation and task IDs.*  
+  `Python` `CLI`
+
+- **[rule-based-chat-assistant](https://github.com/yashwi785/rule-based-chat-assistant)**  
+  *Rule-based CLI chatbot using whole-word phrase matching.*  
+  `Python` `Regex` `unittest`
+
+- **[leetcode-solutions](https://github.com/yashwi785/leetcode-solutions)**  
+  *DSA practice in Python, one file per problem with complexity notes.*  
+  `Python` `DSA`
 
 ---
 
@@ -35,7 +44,7 @@ I build clean, maintainable software, explore intelligent systems, and solve rea
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashwi785&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwi785&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=yashwi785&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
 </p>
 
 <p align="center">
@@ -46,9 +55,7 @@ I build clean, maintainable software, explore intelligent systems, and solve rea
 
 ### 🤝 Let's Connect!
 
-- 💼 LinkedIn: www.linkedin.com/in/yashwi-rathi-9637a1382
-- 🐱‍🏍 Portfolio: https://sites.google.com/view/yashwi-rathi/home
+- 💼 LinkedIn: [yashwi-rathi](https://www.linkedin.com/in/yashwi-rathi-9637a1382)
+- 🐱‍🏍 Portfolio: [sites.google.com/view/yashwi-rathi](https://sites.google.com/view/yashwi-rathi/home)
 - 📧 Email: yashwi0563@gmail.com
-- 🌱 Always open to collaboration, ideas, and ambitious conversations  
-
----
+- 🌱 Always open to collaboration, ideas, and ambitious conversations

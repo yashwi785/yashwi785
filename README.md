@@ -56,6 +56,6 @@ I build clean, maintainable software, explore intelligent systems, and solve rea
 ### 🤝 Let's Connect!
 
 - 💼 LinkedIn: [yashwi-rathi](https://www.linkedin.com/in/yashwi-rathi-9637a1382)
-- 🐱‍🏍 Portfolio: [sites.google.com/view/yashwi-rathi](https://sites.google.com/view/yashwi-rathi/home)
+- 🐱‍🏍 Portfolio: [sites.google.com/view/yashwi-rathi](https://yashwi785.github.io/)
 - 📧 Email: yashwi0563@gmail.com
 - 🌱 Always open to collaboration, ideas, and ambitious conversations

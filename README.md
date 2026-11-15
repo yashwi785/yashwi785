@@ -77,11 +77,12 @@ I'm building a strong base in Python, data structures and machine learning, with
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwi785&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&include_all_commits=true&card_width=480" width="100%" alt="GitHub stats" />
+<p align="center">
+  <img src="./profile-summary-card-output/github/3-stats.svg" width="100%" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwi785&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&card_width=480" width="100%" alt="Top languages" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="100%" alt="Most used languages" />
 </p>
 
 <p align="center">

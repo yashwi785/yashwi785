@@ -2,7 +2,7 @@
 
 ### 2nd-year B.Tech CSE (AI & Data Science) | Learning ML | Python Developer
 
-I'm building a strong base in Python, data structures and machine learning, with the goal of working in **AI product R&D**. I learn by building small, working projects and writing down what I learn.
+I'm building a strong base in Python, data structures and machine learning. I learn by building small, working projects and writing down what I learn.
 
 📍 Jaipur, India · 🎓 JECRC University (2025 - 2029)
 

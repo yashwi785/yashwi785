@@ -55,6 +55,7 @@ I'm building a strong base in Python, data structures and machine learning. I le
 | [**personal-productivity-manager**](https://github.com/yashwi785/personal-productivity-manager) | Task manager with priorities, deadlines and completion status | Python, CLI |
 | [**rule-based-chat-assistant**](https://github.com/yashwi785/rule-based-chat-assistant) | Time-aware CLI chatbot using keyword matching (my first step toward NLP) | Python, datetime |
 | [**NumPy-tutorial**](https://github.com/yashwi785/NumPy-tutorial) | Beginner-friendly notebook covering arrays, indexing, reshaping and stacking | Python, Jupyter, NumPy |
+| [**Pandas-tutorial**](https://github.com/yashwi785/Pandas-tutorial) | Beginner-friendly notebooks and scripts covering Pandas Series,DataFrames, indexing, data cleaning and datetime handling. | Python,Jupyter, Pandas |
 | [**leetcode-solutions**](https://github.com/yashwi785/leetcode-solutions) | My LeetCode solutions in Python while I learn DSA | Python |
 
 ---

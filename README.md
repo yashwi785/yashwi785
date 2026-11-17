@@ -67,26 +67,11 @@ I'm building a strong base in Python, data structures and machine learning. I le
 - [ ] Land a summer internship in AI / software
 
 ---
+### 📊 GitHub stats
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/yashwi785?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yashwi785/yashwi785.github.io?style=for-the-badge&logo=github&label=Portfolio%20Stars" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=yashwi785&label=Profile%20views&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
-<p align="center">
-<p align="center">
-  <img src="./profile-summary-card-output/github/3-stats.svg" width="100%" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="100%" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashwi785&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" width="100%" alt="GitHub streak" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=yashwi785&theme=tokyonight&hide_border=true" height="165" alt="yashwi785 GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwi785&theme=tokyo-night&hide_border=true" height="220" alt="yashwi785 Activity Graph" />
 </p>
 
 ---
